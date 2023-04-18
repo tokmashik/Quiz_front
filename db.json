@@ -1,0 +1,46 @@
+{
+    "cards": [
+      { 
+        "article": "t1",
+        "image": "1.jpg", 
+        "name": "Quiz 1", 
+        "discription": "discription 1",
+        "available": true
+      },
+      { 
+        "article": "t2",
+        "image": "2.jpg", 
+        "name": "Quiz 2", 
+        "discription": "discription 2",
+        "available": true
+      },
+      { 
+        "article": "t3",
+        "image": "3.jpg", 
+        "name": "Quiz 3", 
+        "discription": "discription 3",
+        "available": true
+      },
+      { 
+        "article": "t4",
+        "image": "4.jpg", 
+        "name": "Quiz 4", 
+        "discription": "discription 4",
+        "available": true
+      },
+      { 
+        "article": "t5",
+        "image": "5.jpg", 
+        "name": "Quiz 5", 
+        "discription": "discription 5",
+        "available": true
+      },
+      { 
+        "article": "t6",
+        "image": "6.jpg", 
+        "name": "Quiz 6", 
+        "discription": "discription 6",
+        "available": true
+      }
+    ]
+  }
